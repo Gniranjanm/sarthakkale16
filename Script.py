@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """ Hey👋🏻 {} I Am ᴠᴀᴀʀɪ !\nThis Is Official Bot Of #ʀᴇǫᴜᴇsᴛʙᴏx1 !\nYou Must Buy Premium Membership At @rb1official\n
- ✰ I Am A Advanced AutoFilter Bot Made with Python By #ʀᴇǫᴜᴇsᴛʙᴏx1\nEnjoy By Adding To Your Group """
-    HELP_TXT = """Hey {}\nYou Must Buy Premium Membership! Rates At @rb1official\nTC Apllied
+    START_TXT = """ Hey👋🏻 {} I Am ᴠᴀᴀʀɪ !
+ ✰ I Am A Advanced AutoFilter Bot Made By ʀᴇǫᴜᴇsᴛʙᴏx1 With Source Code\nEnjoy By Adding To Your Group """
+    HELP_TXT = """Hey {}\nI Am Created By @sarthakkale16 Paid Bots
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂"""
     ABOUT_TXT = """
 ✩ C𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/know_sarthak16>✮ ꜱᴀʀᴛʜᴀᴋ ✮</a>
@@ -9,17 +9,15 @@ class script(object):
 ✩ L𝙰N𝙶𝚄A𝙶E : 𝙿Y𝚃𝙷Ø𝙽 3.4+
 ✧ D𝙰𝚃AB𝙰S𝙴 : Private Operated
 ✩ H𝙾S𝚃S𝙴R𝚅𝙴R : Railway
-✧ 𝗕𝘂𝘆 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 : <a href=https://t.me/rb1official>ᴛᴀᴘ ᴛᴏ ʙᴜʏ</a>
-✰ Ｏｗｎｅｒ １ : <a href=https://t.me/sarthakkale16>✪ ꜱᴀʀᴛʜᴀᴋ ✪</a>
+✰ Source Code By : <a href=https://GitHub.com/sarthakkale16/aadicode2>✪ ꜱᴀʀᴛʜᴀᴋ ✪</a>
 """
     SOURCE_TXT = """
-☛   <a href=https://t.me/requestbox1>❤️ 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗿𝗼𝘂𝗽 ❤️</a>\n
-☛   <a href=https://t.me/know_sarthak16>✌️ ꜱᴀʀᴛʜᴀᴋ ✌️</a>\n
+☛   <a href=https://GitHub.com/sarthakkale16>❤️ GITHUB 1❤️</a>\n
+☛   <a href=https://github.com/sarthakxd16/aadicode2>✌️ Open Source ✌️</a>\n
 🔥 ɢɛռɛʀǟʟ ɨռʄօʀʍǟȶɨօռ 🔥\n
-I Am Not Creator Of This Source Code 😌 ! This Is Modified Version By ʀᴇǫᴜᴇsᴛʙᴏx1 !\n\nI Cant Provide Source Code As It Is Private Now  \n
+I Am Not Creator Of This Source Code 😌 ! This Is Modified Version By ʀᴇǫᴜᴇsᴛʙᴏx1 !\n\nAnd This Is The Open Source Code To Use !\n Must Fork And Give ⭐ To Repo
 <b>DEVS:</b>\n
-☞   <a href=https://t.me/helpsarthak_bot> 🥀 Ｄｅｖ Ｏｗｎｅｒ １ 🥀 </a> \n
-☞   <a href=https://t.me/deaddone> 💸 Ｄｅｖ Ｏｗｎｅｒ ２ 💸 </a>"""
+<a href=https://t.me/requestbox1official/969>Team Vaari</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and
@@ -110,12 +108,12 @@ Do Not Try To Be Oversmart This Is Admin Panel Back Of Now
 │<b>└Usᴇᴅ Sᴛᴏʀᴀɢᴇ</b>: <code>{}</code>
 │<b>└Aᴠᴀɪʟᴀʙʟᴇ Sᴘᴀᴄᴇ</b>: <code>{}</code>
 ╰────"""
-    LOG_TEXT_G = """#Group
+    LOG_TEXT_G = """#Group By Sarthak
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    LOG_TEXT_P = """#User
+    LOG_TEXT_P = """#User Started By Sarthak
 ID - <code>{}</code>
 Name - {}
 """
